@@ -1,0 +1,68 @@
+/* titulos */
+#titleHome {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: rgb(134, 129, 201);
+  color: rgb(255, 255, 255);
+}
+
+#titleEquipe {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: rgb(201, 129, 201);
+  color: rgb(255, 255, 255);
+}
+
+#titleProjeto {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: rgb(201, 129, 129);
+  color: rgb(255, 255, 255);
+}
+
+#titleContato {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: rgb(129, 169, 201);
+  color: rgb(255, 255, 255);
+}
+
+#titleMidia {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: rgb(129, 201, 129);
+  color: rgb(255, 255, 255);
+}
+
+/* glossarios */
+#glossaryHome {
+  text-align: center;
+  font-family: Sans-serif;
+  font-size: 20px;
+  background-color: rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
+}
+
+#glossaryContato {
+  text-align: left;
+  font-family: Sans-serif;
+  font-size: 18px;
+  background-color: rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
+}
+
+/* textos */
+#textHome {
+  text-align: center;
+  font-family: Sans-serif;
+  font-size: 14px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  }
+
+
